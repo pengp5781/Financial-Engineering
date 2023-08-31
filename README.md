@@ -1,6 +1,7 @@
 # Financial Engineering
 
 - **Asset Pricing**
+Asset pricing has always been of fundamental importance to modern financial system. This is especially true when we are talking about pricing derivatives – which grows in popularity ever since created and has surpassed the volume of actual stock market by far. In this project, I approached to price multiple kinds of options using both Monte Carlo Simulation and Lattice Method. Visualization of the different simulations was presented to clarify the difference between the 2 methods and their pros and cons were discussed later.
 -  **Financial Robo Advisor**
 
   In this project, we designed and implemented a robot advisor that takes inputs from users through chating and then outputs investment strategy based on their preference. The robot was capable of listening to users about their amount of investment, preference in sectors and risk-tolerance level. The information collected was then communicated to backend program to decide which strategy to apply and return an optimal portfolio with a backtesting figure showing performance in last 3 years.
